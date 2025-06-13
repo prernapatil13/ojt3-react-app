@@ -7,9 +7,11 @@ const HomePage = () => {
       {/* Hero/Banner Section with Image */}
       <div className="hero-section">
         <img
-          src="https://www.google.com/imgres?q=vivekanand%20college%20kolhapur&imgurl=https%3A%2F%2Fmedia.collegedekho.com%2Fmedia%2Fimg%2Finstitute%2Fcrawled_images%2FVC_Banner_2.jpg&imgrefurl=https%3A%2F%2Fwww.collegedekho.com%2Fcolleges%2Fvivekanand-college-kolhapur&docid=hHIqkhohGBut2M&tbnid=cmvjom_0RGG7XM&vet=12ahUKEwjZhs2Y5euNAxUyyqACHVU2GlcQM3oECBcQAA..i&w=2094&h=802&hcb=2&ved=2ahUKEwjZhs2Y5euNAxUyyqACHVU2GlcQM3oECBcQAA"
+          src="public/images/college-banner.png"
           alt="Vivekanand College Campus"
           className="hero-banner-image"
+          width={1540}
+          height={200}
         />
         <div className="hero-overlay-text">
           <h1>Welcome to Vivekanand College!</h1>

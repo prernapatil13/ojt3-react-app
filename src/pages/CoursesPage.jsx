@@ -10,7 +10,7 @@ const CoursesPage = () => {
       </p>
       {/* New Video Section */}
       <h2>Discover Campus Life</h2>
-      <div className="video-container">
+      {/* <div className="video-container">
         <video controls width="100%" height="auto" className="course-video">
           <source src={CollegeTourVideo} type="video/mp4" />
           Your browser does not support the video tag.
@@ -18,7 +18,7 @@ const CoursesPage = () => {
         <p className="video-caption">
           Get a glimpse of the vibrant academic and social life at Vivekanand College.
         </p>
-      </div>
+      </div> */}
       <h2>Undergraduate Programs (UG)</h2>
       <ul>
         <li>

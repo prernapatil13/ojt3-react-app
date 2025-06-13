@@ -75,18 +75,7 @@ const AdmissionsPage = () => {
         <Link to="/courses">Courses page</Link> or{" "}
         <Link to="/contact">Contact us</Link> directly.
       </p>
-      {/* <div className="call-to-action">
-        <p>Ready to apply?</p>
-        <a
-          href="https://yourcollegeadmissionportal.com"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="btn"
-        >
-          Start Your Online Application
-        </a> */}
-      {/* Replace "https://yourcollegeadmissionportal.com" with a real application portal link */}
-      {/* </div> */}
+      
     </div>
   );
 };
